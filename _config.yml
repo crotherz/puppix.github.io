@@ -1,0 +1,4 @@
+name: Enterprise Linux Puppet Suite
+markdown: redcarpet
+pygments: true
+baseurl: /
